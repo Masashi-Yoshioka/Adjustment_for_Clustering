@@ -14,10 +14,10 @@ I have simulated a model with a continuous covariate and showed that the discuss
 
 ## References
 
-Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2017). \textit{When should you adjust standard errors for clustering?} (NBER Working Paper No. 24003). National Bureau of Economic Research. https://www.nber.org/papers/w24003
+Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2017). *When should you adjust standard errors for clustering?* (NBER Working Paper No. 24003). National Bureau of Economic Research. https://www.nber.org/papers/w24003
 
-Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2021, October 8). \textit{When should you adjust standard errors for clustering?} [Conference presentation]. The Gary Chamberlain Online Seminar in Econometrics. https://www.chamberlainseminar.org/past-seminars/autumn-2021\#h.i4t9eedzteeb
+Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2021, October 8). *When should you adjust standard errors for clustering?* [Conference presentation]. The Gary Chamberlain Online Seminar in Econometrics. https://www.chamberlainseminar.org/past-seminars/autumn-2021\#h.i4t9eedzteeb
 
-Liang, K. Y., \& Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. \textit{Biometrika}, 73(1), 13--22.
+Liang, K. Y., \& Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. *Biometrika*, 73(1), 13--22.
 	
-Moulton, B. R. (1986). Random group effects and the precision of regression estimates. \textit{Journal of Econometrics}, 32(3), 385--397.
+Moulton, B. R. (1986). Random group effects and the precision of regression estimates. *Journal of Econometrics*, 32(3), 385--397.
