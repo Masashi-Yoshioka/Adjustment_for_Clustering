@@ -16,7 +16,7 @@ Abadie et al. (2021) propose a new clustering-adjusted variance estimator that n
 
 Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2017). *When should you adjust standard errors for clustering?* (NBER Working Paper No. 24003). National Bureau of Economic Research. https://www.nber.org/papers/w24003
 
-Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2021, October 8). *When should you adjust standard errors for clustering?* [Conference presentation]. The Gary Chamberlain Online Seminar in Econometrics. https://www.chamberlainseminar.org/past-seminars/autumn-2021\#h.i4t9eedzteeb
+Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2021, October 8). *When should you adjust standard errors for clustering?* [Conference presentation]. The Gary Chamberlain Online Seminar in Econometrics. https://www.chamberlainseminar.org/past-seminars/autumn-2021#h.i4t9eedzteeb
 
 Liang, K. Y., \& Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. *Biometrika*, 73(1), 13&ndash;22.
 	
