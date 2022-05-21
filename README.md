@@ -18,6 +18,6 @@ Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2017). *When should you
 
 Abadie, A., Athey, S., Imbens, G. W., \& Wooldridge, J. (2021, October 8). *When should you adjust standard errors for clustering?* [Conference presentation]. The Gary Chamberlain Online Seminar in Econometrics. https://www.chamberlainseminar.org/past-seminars/autumn-2021\#h.i4t9eedzteeb
 
-Liang, K. Y., \& Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. *Biometrika*, 73(1), 13--22.
+Liang, K. Y., \& Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. *Biometrika*, 73(1), 13&ndash;22.
 	
-Moulton, B. R. (1986). Random group effects and the precision of regression estimates. *Journal of Econometrics*, 32(3), 385--397.
+Moulton, B. R. (1986). Random group effects and the precision of regression estimates. *Journal of Econometrics*, 32(3), 385&ndash;397.
