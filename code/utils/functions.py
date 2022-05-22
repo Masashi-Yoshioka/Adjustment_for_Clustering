@@ -25,23 +25,23 @@ def alpha_beta(N_m, M, mu_alpha = 1., var_alpha = 0., rho_alpha = 0., mu_beta = 
     N = N_m * M
     
     if var_alpha != 0.:
-        var_mu = rho_alpha * var_alpha
+        var_upsilon = rho_alpha * var_alpha
         var_nu = (1 - rho_alpha) * var_alpha
-        mu = np.random.normal(loc = 0., scale = np.sqrt(var_mu), size = M)
-        mu = np.repeat(mu, N_m)
+        upsilon = np.random.normal(loc = 0., scale = np.sqrt(var_upsilon), size = M)
+        upsilon = np.repeat(upsilon, N_m)
         nu = np.random.normal(loc = 0., scale = np.sqrt(var_nu), size = N)
-        alpha = (mu_alpha + mu + nu).reshape(-1, 1)
+        alpha = (mu_alpha + upsilon + nu).reshape(-1, 1)
     
     elif var_alpha == 0.:
         alpha = np.ones([N, 1]) * mu_alpha
     
     if var_beta != 0.:
-        var_mu = rho_beta * var_beta
+        var_upsilon = rho_beta * var_beta
         var_nu = (1 - rho_beta) * var_beta
-        mu = np.random.normal(loc = 0., scale = np.sqrt(var_mu), size = M)
-        mu = np.repeat(mu, N_m)
+        upsilon = np.random.normal(loc = 0., scale = np.sqrt(var_upsilon), size = M)
+        upsilon = np.repeat(upsilon, N_m)
         nu = np.random.normal(loc = 0., scale = np.sqrt(var_nu), size = N)
-        beta = (mu_beta + mu + nu).reshape(-1, 1)
+        beta = (mu_beta + upsilon + nu).reshape(-1, 1)
     
     elif var_beta == 0.:
         beta = np.ones([N, 1]) * mu_beta
